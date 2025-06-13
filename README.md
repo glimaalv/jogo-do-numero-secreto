@@ -1,9 +1,9 @@
-### Numero Secreto
+### Guess The Secret Number
 
 ---
 
-Um simples jogo de adivinhar o número secreto!
-Esse projeto foi criado como um exercício de Lógica de Programação com Java Script.
+A simple but polished game I developed to enhance my Front-End skills and gain a deeper understanding of JavaScript functions.
+Structured for scalability and optimized for maintainability.
 
 <img src="img/Tela.png" alt="Tela do projeto" width="100%"/>
 
